@@ -20,8 +20,67 @@
     <p>El fin de estos Fondos es sumar esfuerzos que nos permitan incrementar el impacto positivo sobre las comunidades.
       Así sumamos recursos que serán destinados para objetivos, proyectos y programas específicos.</p>
     <p>Actualmente participamos en 6 Fondos y estamos en Alianza con Comunalia y el zoológico Yaguar Xoo.</p>
+
+
+
     <div class="row">
-      <div class="section-container auto" data-section>
+    <div class="section-container auto" data-section>
+        <section>
+          <p class="title" data-section-title><a href="#panel12" id="techamosmano">Techamos una mano</a></p>
+          <div class="content" data-slug="techamosmano" data-section-content>
+            <div class="row">
+              <div class="large-6 columns"><br/>
+                <center><img id="techamos" src="images/fondos/techamos_logo.png" /></center>
+                <p>Integrado con recursos financieros aportados por Interacción Social Sostenible A.C., la Fundación Comunitaria Oaxaca A.C. y 
+                  Organizaciones Aliadas, se destinan a la construcción de Unidades Básicas de Vivienda (UBV). Teniendo como objetivo unir esfuerzos
+                  y recursos para mejorar las condiciones de vida de familias que viven en condiciones de muy alta marginación.</p>
+              </div>
+              <div class="large-6 columns"><br/>
+              <!-- <img src="images/fondos/techamosProceso.png" />  -->
+               <div class="contain demo-4">
+                  <div class="main">
+                    <div class="galleria">
+                      <!--Elastislide carruselito  -->
+                      <ul id="carruselito" class="elastislide-list">
+                        <li data-preview="modulos/fondos/images/large/4.jpg"><a href="#"><img src="modulos/fondos/images/small/4.jpg" alt="image04" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/5.jpg"><a href="#"><img src="modulos/fondos/images/small/5.jpg" alt="image05" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/6.jpg"><a href="#"><img src="modulos/fondos/images/small/6.jpg" alt="image06" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/7.jpg"><a href="#"><img src="modulos/fondos/images/small/7.jpg" alt="image07" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/11.jpg"><a href="#"><img src="modulos/fondos/images/small/11.jpg" alt="image11" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/12.jpg"><a href="#"><img src="modulos/fondos/images/small/12.jpg" alt="image12" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/13.jpg"><a href="#"><img src="modulos/fondos/images/small/13.jpg" alt="image13" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/14.jpg"><a href="#"><img src="modulos/fondos/images/small/14.jpg" alt="image14" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/15.jpg"><a href="#"><img src="modulos/fondos/images/small/15.jpg" alt="image15" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/16.jpg"><a href="#"><img src="modulos/fondos/images/small/16.jpg" alt="image16" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/17.jpg"><a href="#"><img src="modulos/fondos/images/small/17.jpg" alt="image17" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/18.jpg"><a href="#"><img src="modulos/fondos/images/small/18.jpg" alt="image18" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/19.jpg"><a href="#"><img src="modulos/fondos/images/small/19.jpg" alt="image19" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/20.jpg"><a href="#"><img src="modulos/fondos/images/small/20.jpg" alt="image20" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/1.jpg"><a href="#"><img src="modulos/fondos/images/small/1.jpg" alt="image01" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/2.jpg"><a href="#"><img src="modulos/fondos/images/small/2.jpg" alt="image02" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/3.jpg"><a href="#"><img src="modulos/fondos/images/small/3.jpg" alt="image03" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/8.jpg"><a href="#"><img src="modulos/fondos/images/small/8.jpg" alt="image08" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/9.jpg"><a href="#"><img src="modulos/fondos/images/small/9.jpg" alt="image09" /></a></li>
+                        <li data-preview="modulos/fondos/images/large/10.jpg"><a href="#"><img src="modulos/fondos/images/small/10.jpg" alt="image10" /></a></li>
+                      </ul>
+                      <!-- End Elastislide carruselito -->
+                      <div class="image-preview">
+                        <img id="preview" src="modulos/fondos/images/large/4.jpg" />
+                      </div>
+                    </div>
+                  </div> 
+                </div>
+              </div>
+              <div class="large-12 columns"><br/>
+                <p>El Programa “Techamos Una Mano por Oaxaca” consiste en la construcción de Unidades Básicas de Vivienda (UBV), a partir de la técnica 
+                  de muro ecológico prefabricado TUM. Este modelo de construcción ha sido revisado por la Cámara Mexicana de la Industria de la Construcción 
+                  (CMIC), el Colegio de Ingenieros Civiles de Oaxaca A.C. y el Colegio de Arquitectos del Estado de Oaxaca A.C.  </p>
+                <p>Cada instancia entregó mediante escrito formal una opinión favorable acerca de esta técnica de construcción así como la seguridad de la misma. </p>
+                <p>Para saber más: <a href=" http://www.tum.org.mx/" target="_blank"> www.tum.org.mx</a></p>
+              </div>
+            </div>
+          </div>
+        </section>
         <section>
           <p class="title" data-section-title><a href="#panel10" id="PuentealaSalud">Puente a la Salud</a></p>
           <div class="content" data-slug="PuentealaSalud" data-section-content>
@@ -96,69 +155,7 @@
             </div>
           </div>
         </section>
-        <section>
-          <p class="title" data-section-title><a href="#panel12" id="techamosmano">Techamos una mano</a></p>
-          <div class="content" data-slug="techamosmano" data-section-content>
-            <div class="row">
-              <div class="large-6 columns"><br/>
-                <center><img id="techamos" src="images/fondos/techamos_logo.png" /></center>
-                <p>Integrado con recursos financieros aportados por Interacción Social Sostenible A.C., la Fundación Comunitaria Oaxaca A.C. y 
-                  Organizaciones Aliadas, se destinan a la construcción de Unidades Básicas de Vivienda (UBV). Teniendo como objetivo unir esfuerzos
-                  y recursos para mejorar las condiciones de vida de familias que viven en condiciones de muy alta marginación.</p>
-              </div>
-              <div class="large-6 columns"><br/>
-              <!-- <img src="images/fondos/techamosProceso.png" />  -->
-                <div class="contain demo-4">
-      
-
-           <div class="main">
         
-
-        <div class="galleria">
-          <!--Elastislide carruselito  -->
-          <ul id="carruselito" class="elastislide-list">
-            <li data-preview="modulos/fondos/images/large/4.jpg"><a href="#"><img src="modulos/fondos/images/small/4.jpg" alt="image04" /></a></li>
-            <li data-preview="modulos/fondos/images/large/5.jpg"><a href="#"><img src="modulos/fondos/images/small/5.jpg" alt="image05" /></a></li>
-            <li data-preview="modulos/fondos/images/large/6.jpg"><a href="#"><img src="modulos/fondos/images/small/6.jpg" alt="image06" /></a></li>
-            <li data-preview="modulos/fondos/images/large/7.jpg"><a href="#"><img src="modulos/fondos/images/small/7.jpg" alt="image07" /></a></li>
-            <li data-preview="modulos/fondos/images/large/11.jpg"><a href="#"><img src="modulos/fondos/images/small/11.jpg" alt="image11" /></a></li>
-            <li data-preview="modulos/fondos/images/large/12.jpg"><a href="#"><img src="modulos/fondos/images/small/12.jpg" alt="image12" /></a></li>
-            <li data-preview="modulos/fondos/images/large/13.jpg"><a href="#"><img src="modulos/fondos/images/small/13.jpg" alt="image13" /></a></li>
-            <li data-preview="modulos/fondos/images/large/14.jpg"><a href="#"><img src="modulos/fondos/images/small/14.jpg" alt="image14" /></a></li>
-            <li data-preview="modulos/fondos/images/large/15.jpg"><a href="#"><img src="modulos/fondos/images/small/15.jpg" alt="image15" /></a></li>
-            <li data-preview="modulos/fondos/images/large/16.jpg"><a href="#"><img src="modulos/fondos/images/small/16.jpg" alt="image16" /></a></li>
-            <li data-preview="modulos/fondos/images/large/17.jpg"><a href="#"><img src="modulos/fondos/images/small/17.jpg" alt="image17" /></a></li>
-            <li data-preview="modulos/fondos/images/large/18.jpg"><a href="#"><img src="modulos/fondos/images/small/18.jpg" alt="image18" /></a></li>
-            <li data-preview="modulos/fondos/images/large/19.jpg"><a href="#"><img src="modulos/fondos/images/small/19.jpg" alt="image19" /></a></li>
-            <li data-preview="modulos/fondos/images/large/20.jpg"><a href="#"><img src="modulos/fondos/images/small/20.jpg" alt="image20" /></a></li>
-            <li data-preview="modulos/fondos/images/large/1.jpg"><a href="#"><img src="modulos/fondos/images/small/1.jpg" alt="image01" /></a></li>
-            <li data-preview="modulos/fondos/images/large/2.jpg"><a href="#"><img src="modulos/fondos/images/small/2.jpg" alt="image02" /></a></li>
-            <li data-preview="modulos/fondos/images/large/3.jpg"><a href="#"><img src="modulos/fondos/images/small/3.jpg" alt="image03" /></a></li>
-            <li data-preview="modulos/fondos/images/large/8.jpg"><a href="#"><img src="modulos/fondos/images/small/8.jpg" alt="image08" /></a></li>
-            <li data-preview="modulos/fondos/images/large/9.jpg"><a href="#"><img src="modulos/fondos/images/small/9.jpg" alt="image09" /></a></li>
-            <li data-preview="modulos/fondos/images/large/10.jpg"><a href="#"><img src="modulos/fondos/images/small/10.jpg" alt="image10" /></a></li>
-          </ul>
-          <!-- End Elastislide carruselito -->
-          <div class="image-preview">
-            <img id="preview" src="modulos/fondos/images/large/4.jpg" />
-          </div>
-        </div>
-
-        
-      </div> 
-    </div><!---->
-                
-              </div>
-              <div class="large-12 columns"><br/>
-                <p>El Programa “Techamos Una Mano por Oaxaca” consiste en la construcción de Unidades Básicas de Vivienda (UBV), a partir de la técnica 
-                  de muro ecológico prefabricado TUM. Este modelo de construcción ha sido revisado por la Cámara Mexicana de la Industria de la Construcción 
-                  (CMIC), el Colegio de Ingenieros Civiles de Oaxaca A.C. y el Colegio de Arquitectos del Estado de Oaxaca A.C.  </p>
-                <p>Cada instancia entregó mediante escrito formal una opinión favorable acerca de esta técnica de construcción así como la seguridad de la misma. </p>
-                <p>Para saber más: <a href=" http://www.tum.org.mx/" target="_blank"> www.tum.org.mx</a></p>
-              </div>
-            </div>
-          </div>
-        </section>
         <section>
           <p class="title" data-section-title><a href="#panel13" id="FOCN">Conservación de la Naturaleza</a></p>
           <div class="content" data-slug="FOCN" data-section-content>
@@ -279,7 +276,7 @@
             <p>Para saber más visita: <a href="http://yaguarxoo.com.mx" target="_blank">yaguarxoo.com.mx</a></p>
           </div>
         </section>
-        <!-- <section>
+         <!--<section>
           <p class="title" data-section-title><a href="#panel9">Cemefi</a></p>
           <div class="content" data-slug="panel7" data-section-content>
             <div class="row">
@@ -310,11 +307,11 @@
                 <li>Acreditación de los Indicadores de Institucionalidad y Transparencia.</li>
               </ol>
               <p>Para saber más visita: <a href="http://www.cemefi.org/" target="_blank">www.cemefi.org/</a></p>
+
             </div>
           </div>
         </div>
-      </section> -->
-    </div>
+      </section>-->     </div>
   </div>
   </div>
 

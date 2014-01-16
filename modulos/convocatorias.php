@@ -11,11 +11,8 @@
             <div id="convocatorias">
               <ul>
                 <li><a href="http://www.fundacion-oaxaca.org/modulos/involucrate/involucrate.php" target="_blank">Amigos de Bécalos</a></li>
+                <li><a href="http://www.fundacion-oaxaca.org/documentos/convocatorias/TR-CONSULTORIASISTEMATIZACIONAPROVECHAMIENTODERESINA.pdf"target="_blank">Consultaria Sistematización de Aprovechamiento de Resina</a></li>
                 <li><a href="http://www.fundacion-oaxaca.org/documentos/convocatorias/TR-COORDINADORTECNICODEPROYECTOFCO-WWF.pdf" target="_blank">Coordinador Técnico de Proyecto FCO-WWF</a></li>
-                <li><a href="http://www.fundacion-oaxaca.org/documentos/BasesdelProgramadeFormacionycapacitaciondeOSC.pdf" target="_blank">Bases del Programa de Formación y capacitación de OSC</a></li>
-                <li><a href="http://www.fundacion-oaxaca.org/documentos/ConvocatoriaVoluntariadoFCO.pdf" target="_blank">Convocatoria Voluntariado</a></li>
-                <li><a href="http://www.fundacion-oaxaca.org/documentos/BasesdelProgramadeFormacionycapacitaciondeOSC.docx" target="_blank">Bases del Programa de Formación y capacitación de OSC</a></li>
-                <li><a href="http://www.fundacion-oaxaca.org/documentos/Formato de registro y Carta Compromiso.docx" target="_blank">Formato de registro y Carta compromiso Programa de Formación y capacitación de OSC</a></li>
               </ul>
             </div> 
           </div>

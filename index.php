@@ -110,12 +110,7 @@
       <div class="espaciocolor"></div>
       <div class="large-12 columns">
         <ul id="featured1" data-orbit data-options="timer_speed:4500;">
-          <li>
-            <a href="programas.php#RedComercio" title="Red de Comercialización"> <img src="images/Banners/redcomercio.jpg" /></a>
-            <div class="orbit-caption">
-              Red Comercialización. Conectando esfuerzos y ganas de trabajar.
-            </div>
-          </li>
+          
           <li>
             <a href="programas.php#Becas" title="Becas "><img src="images/Banners/becas.jpg" /></a>
             <div class="orbit-caption">
